@@ -12,10 +12,10 @@ My daily calendar on iPhone and Mac. It started as a website, and I rebuilt it n
 
 ## Tools I use
 
-Swift, SwiftUI, Python, Java, JavaScript, C#, Firebase, Git, Xcode
+Swift, SwiftUI, Python, SQL, Java, JavaScript, C#, Firebase, Git, Xcode
 
 ## Right now
 
-Taking data science coursework at UCSD and starting to put Python and data projects up here too. I speak English and Mandarin.
+Taking DSC 10 and MATH 18 at UCSD and starting to put Python and data projects up here too. I speak English and Mandarin.
 
 Reach me at allenlong2007@gmail.com.
